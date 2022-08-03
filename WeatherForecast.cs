@@ -1,4 +1,5 @@
 namespace SoccerWebAPI
+
 {
     public class WeatherForecast
     {
